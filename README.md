@@ -1,2 +1,2 @@
-# ULat-Tangga-ARK
+# ULar-Tangga-ARK
 Permaian Ular Tangga
